@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5C2A74212A0671EC007E27E7 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C2A74202A0671EC007E27E7 /* Capital.swift */; };
 		5CB88BEE2A054F8500DD6A95 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB88BED2A054F8500DD6A95 /* AppDelegate.swift */; };
 		5CB88BF02A054F8500DD6A95 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB88BEF2A054F8500DD6A95 /* SceneDelegate.swift */; };
 		5CB88BF22A054F8500DD6A95 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB88BF12A054F8500DD6A95 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5C2A74202A0671EC007E27E7 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
 		5CB88BEA2A054F8500DD6A95 /* Project16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project16.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CB88BED2A054F8500DD6A95 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CB88BEF2A054F8500DD6A95 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				5CB88BED2A054F8500DD6A95 /* AppDelegate.swift */,
 				5CB88BEF2A054F8500DD6A95 /* SceneDelegate.swift */,
 				5CB88BF12A054F8500DD6A95 /* ViewController.swift */,
+				5C2A74202A0671EC007E27E7 /* Capital.swift */,
 				5CB88BF32A054F8500DD6A95 /* Main.storyboard */,
 				5CB88BF62A054F8800DD6A95 /* Assets.xcassets */,
 				5CB88BF82A054F8800DD6A95 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				5CB88BF22A054F8500DD6A95 /* ViewController.swift in Sources */,
 				5CB88BEE2A054F8500DD6A95 /* AppDelegate.swift in Sources */,
+				5C2A74212A0671EC007E27E7 /* Capital.swift in Sources */,
 				5CB88BF02A054F8500DD6A95 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
